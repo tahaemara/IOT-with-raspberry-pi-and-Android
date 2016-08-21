@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Raspberry Pi Client</string>
+    <string name="raspberry_pi_ip">Raspberry Pi IP</string>
+    <string name="port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="led_1">Led 1</string>
+    <string name="led_2">Led 2</string>
+    <string name="led_3">Led 3</string>
+    <string name="www_emaraic_com">    www.emaraic.com</string>
+    <color name="myColor">#F5F5F5</color>
+
+</resources>

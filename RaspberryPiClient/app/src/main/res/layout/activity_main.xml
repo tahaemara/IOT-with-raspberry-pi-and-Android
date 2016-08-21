@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_marginBottom="39dp"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:weightSum="1"
+    android:background="@color/myColor"
+    >
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ip"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.03"
+        android:hint="@string/raspberry_pi_ip" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberSigned"
+        android:ems="10"
+        android:id="@+id/port"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.03"
+        android:hint="@string/port" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/connect"
+        android:id="@+id/connect"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp" />
+
+    <Switch
+        android:layout_width="291dp"
+        android:layout_height="wrap_content"
+        android:text="@string/led_1"
+        android:id="@+id/led1"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.18"
+        android:textColor="#000000"
+        android:longClickable="false"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp" />
+
+    <Switch
+        android:layout_width="291dp"
+        android:layout_height="wrap_content"
+        android:text="@string/led_2"
+        android:id="@+id/led2"
+        android:layout_gravity="center_horizontal"
+        android:checked="false"
+        android:textColor="#000000"
+        android:layout_weight="0.18"
+        android:textStyle="bold" />
+
+    <Switch
+        android:layout_width="291dp"
+        android:layout_height="wrap_content"
+        android:text="@string/led_3"
+        android:id="@+id/led3"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.18"
+        android:checked="false"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="396dp"
+        android:layout_height="wrap_content"
+        android:text="@string/www_emaraic_com"
+        android:id="@+id/link"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.03"
+        android:textColor="#954747"
+        android:textSize="40dp"
+        android:layout_marginTop="70dp"
+        android:textAlignment="center"
+        android:typeface="monospace" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Taha Emara"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.03"
+        android:textColor="#000000"
+        android:typeface="normal" />
+
+
+</LinearLayout>
+
