@@ -33,7 +33,7 @@
                     </archive>
                 </configuration>
             </plugin>
-            <plugin><!-- optional-->
+            <plugin><!-- to copy lib folder to target folder-->
                 <artifactId>maven-dependency-plugin</artifactId>
                 <executions>
                     <execution>
