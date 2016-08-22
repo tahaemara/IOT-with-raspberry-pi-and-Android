@@ -1,2 +1,7 @@
-# IOT-with-raspberry-pi-and-Android
-IOT with Raspberry PI and Android ( control LEDs remotely )
+#IOT with Raspberry PI and Android ( control LEDs remotely )
+
+##More about project:
+
+http://emaraic.com/iot-raspberry-pi-and-android/
+
+##video
