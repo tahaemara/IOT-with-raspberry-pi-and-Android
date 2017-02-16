@@ -8,8 +8,8 @@ Of causer this is a simple prototype but you can build a cool things on it.
 
 
 ##More about project:
-<a href="http://emaraic.com/iot-raspberry-pi-and-android/
-" target="_blank">http://emaraic.com/iot-raspberry-pi-and-android/
+<a href="http://emaraic.com/blog/iot-raspberry-pi-and-android/
+" target="_blank">http://emaraic.com/blog/iot-raspberry-pi-and-android/
 </a>
 
 
