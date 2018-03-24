@@ -19,5 +19,5 @@ Of causer this is a simple prototype but you can build a cool things on it.
 " target="_blank">https://www.youtube.com/watch?v=LuvCtROPx-A
 </a>
 
-[![IOT with Raspberry PI and Android ( control LEDs remotely ](https://i.makeagif.com/media/8-22-2016/Arv3lx.gif)](https://www.youtube.com/watch?v=LuvCtROPx-A)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LuvCtROPx-A/0.jpg)](https://www.youtube.com/watch?v=LuvCtROPx-A)
 
