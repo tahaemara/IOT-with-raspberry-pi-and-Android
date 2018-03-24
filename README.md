@@ -7,13 +7,13 @@ Briefly, we assign an IP to things to communicate with them either for control o
 Of causer this is a simple prototype but you can build a cool things on it.
 
 
-##More about project:
+**More about project:**
 <a href="http://emaraic.com/blog/iot-raspberry-pi-and-android/
 " target="_blank">http://emaraic.com/blog/iot-raspberry-pi-and-android/
 </a>
 
 
-##video
+**Video**
 
 <a href="https://www.youtube.com/watch?v=LuvCtROPx-A
 " target="_blank">https://www.youtube.com/watch?v=LuvCtROPx-A
